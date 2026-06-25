@@ -1,0 +1,3 @@
+# Understanding First
+
+Draft.
